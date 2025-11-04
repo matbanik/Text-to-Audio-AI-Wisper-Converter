@@ -1,3 +1,17 @@
+# Kokoro Text-to-Speech Projects
+
+This repository contains text-to-speech app using the Kokoro TTS model.
+
+## 🎤 [Kokoro-82M Text-to-Speech Application](./README_KOKORO_TTS.md)
+
+A simple, standalone GUI application for converting text to speech using the Kokoro-82M model. **Optimized for NVIDIA RTX 5000 series graphics cards (RTX 5080, RTX 5090, etc.) running on Windows 11** with CUDA acceleration.
+
+![Kokoro TTS Application](./KOKO.jpg)
+
+**📖 [Full Documentation and Installation Instructions](./README_KOKORO_TTS.md)**
+
+---
+
 # PDF to MP3 Converter
 
 PDF2MP3 graphical desktop application designed to batch-convert PDF files into MP3 audiobooks using advanced, locally-run Text-to-Speech (TTS) models. It provides a simple interface for managing a conversion queue and selecting from various high-quality voices.

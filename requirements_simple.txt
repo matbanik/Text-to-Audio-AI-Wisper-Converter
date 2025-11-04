@@ -1,0 +1,16 @@
+# Kokoro-82M Text-to-Speech Application - Minimal Requirements
+
+# Core TTS library
+kokoro
+
+# Audio processing
+numpy
+soundfile
+
+# PyTorch (install separately with CUDA support for RTX 5080)
+# For CUDA 12.x: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# For CPU only: pip install torch torchvision torchaudio
+
+# Optional: For MP3 support
+# FFmpeg must be installed separately and available in PATH
+
